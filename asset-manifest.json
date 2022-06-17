@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fcfecf3.chunk.css",
+    "main.js": "/static/js/main.e54a476b.chunk.js",
+    "main.js.map": "/static/js/main.e54a476b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.9a7980ef.js",
+    "runtime~main.js.map": "/static/js/runtime~main.9a7980ef.js.map",
+    "static/js/2.8715f2aa.chunk.js": "/static/js/2.8715f2aa.chunk.js",
+    "static/js/2.8715f2aa.chunk.js.map": "/static/js/2.8715f2aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d040094e819533ce738ea036f4847dc.js": "/precache-manifest.8d040094e819533ce738ea036f4847dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8fcfecf3.chunk.css.map": "/static/css/main.8fcfecf3.chunk.css.map",
+    "static/media/audit.svg": "/static/media/audit.4fb77a93.svg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.397aa08b.svg",
+    "static/media/cube.svg": "/static/media/cube.6664ccb4.svg",
+    "static/media/style.scss": "/static/media/illustration-section-01.ad9b81a8.svg",
+    "static/media/logo.png": "/static/media/logo.16f5143d.png",
+    "static/media/moneybag.svg": "/static/media/moneybag.79cda215.svg",
+    "static/media/pcs.svg": "/static/media/pcs.af6957bb.svg",
+    "static/media/poocoin.svg": "/static/media/poocoin.2eefa5fc.svg",
+    "static/media/telegram.svg": "/static/media/telegram.919a6e22.svg",
+    "static/media/twitter.svg": "/static/media/twitter.492393ae.svg"
+  }
+}
